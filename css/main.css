@@ -45,7 +45,7 @@ img {
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-style: italic;
   text-align: center;
 }
@@ -56,12 +56,12 @@ figcaption {
 
 p {
   color: #222;
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-weight: normal;
 }
 
 blockquote {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-style: italic;
 }
 
@@ -71,23 +71,23 @@ blockquote > cite {
 
 h2 + ol > li {
   color: #222;
-  font-size: .8rem;
+  font-size: 1.125rem;
   list-style-type: lower-greek;
 }
 
 dl > dt {
   color: #222;
-  font-size: .8rem;
+  font-size: 1.125rem;
 }
 
 dl > dd {
   color: #222;
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-weight: normal;
 }
 
 ul > li {
   color: #222;
-  font-size: .8rem;
+  font-size: 1.125rem;
   list-style-type: circle;
 }

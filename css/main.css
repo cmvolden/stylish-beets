@@ -36,6 +36,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a {
+
+}
+
 img {
   width: 100%;
 }
@@ -68,6 +72,7 @@ blockquote > cite {
 ol > li {
   color: #222;
   font-size: .8rem;
+  list-style-type: lower-greek;
 }
 
 dl > dt {
@@ -84,4 +89,5 @@ dl > dd {
 ul > li {
   color: #222;
   font-size: .8rem;
+  list-style-type: circle;
 }

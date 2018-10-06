@@ -2,7 +2,7 @@ html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1.125;
 }
 
 img {
@@ -13,6 +13,7 @@ h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
+  line-height: 1.125;
 }
 
 figcaption {
@@ -56,10 +57,31 @@ p {
 }
 
 blockquote {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-style: italic;
 }
 
 blockquote > cite {
+  font-size: .8rem;
+}
+
+ol > li {
+  color: #222;
+  font-size: .8rem;
+}
+
+dl > dt {
+  color: #222;
+  font-size: .8rem;
+}
+
+dl > dd {
+  color: #222;
+  font-size: .8rem;
+  font-weight: normal;
+}
+
+ul > li {
+  color: #222;
   font-size: .8rem;
 }

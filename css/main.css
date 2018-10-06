@@ -5,21 +5,11 @@ html {
   line-height: 1.5;
 }
 
-img {
-  width: 100%;
-}
-
 h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  font-size: 1.125rem;
-}
-
-figcaption {
-  font-size: .8rem;
-  font-style: italic;
-  text-align: center;
+  font-size: 1.5rem;
 }
 
 nav {
@@ -44,6 +34,16 @@ a:link {
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
 }
 
 .days {
